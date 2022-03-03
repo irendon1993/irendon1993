@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- I'm Isaac and I am a Full-Stack developer currently working within the MERN stack but also dabble with and PostgreSQL.
+- I'm Isaac and I am a Full-Stack developer currently working within the MERN stack but also dabble with C# and PostgreSQL.
 - 💡 Keep an eye out for my next project in the works, FitSync
   - 💪 It'll be an all-purpose fitness app that will help users maintain healthy life styles covering topics such as resitance training, nutrition, and meditation.
 - 📚 Some of my learning goals for the rest of year:
